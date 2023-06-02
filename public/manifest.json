@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "short_name": "编程 | 坚果壳",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "一个有趣的编程启蒙课",
+  "theme_color": "#000",
+  "start_url": "/",
+  "lang": "zh-cn",
+  "url": "https://code.jianguoke.cn",
+  "icons": [
+    {
+      "src": "logo144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
