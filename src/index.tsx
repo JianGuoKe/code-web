@@ -11,7 +11,14 @@ import './tracker';
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
-
+console.log(
+  `
+    __ _____ _____ _____ _____ _____ _____ _____ _____ 
+ __|  |     |  _  |   | |   __|  |  |     |  |  |   __|
+|  |  |-   -|     | | | |  |  |  |  |  |  |    -|   __|
+|_____|_____|__|__|_|___|_____|_____|_____|__|__|_____|
+`
+);
 console.log(
   "%c[邀请]:你已经看到这了,可以来github共建此项目 https://github.com/JianGuoKe/code-web",
   "color: #43bb88; font-weight: bold; "
